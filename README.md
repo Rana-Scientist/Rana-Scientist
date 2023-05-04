@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rana-scientist&label=Profile%20views&color=0e75b6&style=flat" alt="rana-scientist" /> </p>
 
-- 🔭 I’m currently working on **data wrangling (EDA) and supervised/unsupervised machine learning algorithms.**
+- 🔭 I’m currently working on **(Extract,Transform,Load ETL Pipeline), Data wrangling, Exploratory Data Analysis (EDA) and supervised/unsupervised machine learning algorithms.**
 
 - 🌱 I’m currently learning **new techniques for EDA, Machine learning and Deep learning techniques.**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **front-end applications, for general data wrangling and data health scoring visualization.**
 
-- 💬 Ask me about data science related **data wrangling (EDA), machine learning problems.**
+- 💬 Ask me about data science related **ETL pipeline, Data wrangling,Exploratory Data Analysis (EDA), machine learning problems.**
 
 - 📫 To reach me, please email me at **touqeerattiq@gmail.com**
 
