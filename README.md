@@ -25,7 +25,7 @@ I am a goal-oriented and driven guy with a "Can Do" mentality who is constantly 
 
 • For Supervised datasets worked on both classification problems and regression problems e.g., Linear Regression, Simple Linear, Multi-Linear and Polynomial Regression etc. I've worked on several academic projects for Sentimental analysis, Linear Regression and Classification problems using UCI and World Bank Datasets. 
 
-• For Unsupervised datasets worked on common clustering models e.g K-means clustering and Market Basket Analysis or Affinity Analysis with multiple algorithms e,g. Apriori, FPgrowth or FPmax etc. 
+• For Unsupervised datasets worked on common clustering models e.g K-means clustering etc.
 
 • Very handy with top python libraries e.g, NumPy, Pandas, SciKit-Learn, Matplotlib, Boto3, dateutil, Dataprep.clean, FPDF, Flasks, celery etc.
 
