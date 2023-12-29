@@ -5,30 +5,46 @@
 
 - 🔭 I’m currently working on **(Extract, Transform, Load ETL Pipeline), Data wrangling, Exploratory Data Analysis (EDA) and supervised/unsupervised machine learning algorithms.**
 
-- 🌱 I’m currently learning **new techniques for EDA, Machine learning and Deep learning techniques.**
+- 🌱 I’m currently learning **new techniques for NLP, Machine learning and Deep learning techniques.**
 
 - 👯 I’m looking to collaborate on **any of the presented data science related projects.**
 
-- 🤝 I’m looking for help with **front-end applications, for general data wrangling and data health scoring visualization.**
+- 🤝 I’m looking for help with **flask-based applications, for general data wrangling and data health scoring visualization.**
 
-- 💬 Ask me about data science related **ETL pipeline, Data wrangling, Exploratory Data Analysis (EDA), and machine learning problems.**
+- 💬 Ask me about data science related **ETL pipeline, Data wrangling, Exploratory Data Analysis (EDA), statistical analysis, contextual analysis, correlational analysis, predictive analysis, descriptive analysis and machine learning problems.**
 
 - 📫 To reach me, please email me at **touqeerattiq@gmail.com**
 
-- 📄 Know about my experiences https://www.linkedin.com/in/rprof
+- 📄 Know about my experiences https://www.linkedin.com/in/rprof | https://rana-portfolio.com
+
+
 
 <h3 align="left">Background:</h3>
 • I am a dedicated and driven data scientist with a goal-oriented mindset and a "Can Do" attitude. I thrive on expanding my knowledge of new languages and cutting-edge technologies to enhance my strong programming background. With a Master's degree in data science as my foundation, I have achieved a series of notable certifications, including Machine Learning with SciKit Learn, Python Foundation, Data Science Tips and Tricks, AWS Academy Data Analytics, and Essential Trainings for Data Cleaning, SQL, Tableau, and Power-BI. These certifications have enriched my skills in data mining and analysis, with a focus on essential Python libraries such as NumPy, Pandas, SciKit-Learn, Seaborn, Matplotlib, Boto3, and more. I bring over a year of hands-on experience, adeptly participating in ETL pipeline, data wrangling, exploratory data analysis (EDA), implementing machine learning algorithms, and generating comprehensive reports. My versatile programming toolkit spans Python and SQL, and I am well-versed in tools such as Jupyter Notebook, Data Bricks, and VS code.
-
-<br>
+<br><br>
 • Throughout my academic journey, I've adeptly navigated both supervised and unsupervised datasets, showcasing prowess in classification and regression techniques including Linear Regression, Simple Linear, Multi-Linear, and Polynomial Regression. My skillset encompasses a spectrum of machine learning algorithms such as Decision Trees, Random Forests, Support Vector Machines (SVM), and K-Nearest Neighbors (KNN), while my expertise in A/B Testing tailored insights for specific project contexts. Expanding my horizons, I've ventured into Sentiment Analysis using UCI and World Bank Datasets. For unsupervised analysis, I've honed proficiency in K-means clustering, Principal Component Analysis, and Market Basket Analysis, all bolstered by hands-on data visualization through Tableau in academic forecasting ventures.
-<br>
+<br><br>
 • Earlier to this as a Unity 3D game developer, I spearheaded the creation of cutting-edge prototypes and custom Unity 3D plugins, while concurrently managing operations within the Google Play Store ecosystem. My technical contributions encompassed the development of highly optimized Unity 3D packages, seamlessly integrating UI components, core gameplay mechanics, sophisticated AI frameworks, in-app purchasing SDKs, and the seamless incorporation of platforms such as Admob and Unity to bolster analytics and social interactions. I harnessed Google Play Store and Unity Dashboard analytics to formulate data-driven strategies, dissecting metrics like active user engagement and retention rates.
 
+<h3 align="left">Recent Work:</h3>
+In my most recent role at Alqami, I was confronted with the challenge of streamlining supervised and unsupervised data validation and dynamic scoring processes, all while reducing the substantial time and resources dedicated to data-wrangling and scoring efforts without metadata. The core issue lies in the laborious data-wrangling efforts undertaken by data scientists or analysts, consuming a substantial 70 to 80% of their time and resources when preparing data sets for machine learning. Additionally, clients encountered difficulties locating suitable data sets aligned with their specific needs, often requiring meticulous considerations such as target audience, geographical coverage, timeliness, and historical relevance. Recognizing the need for an autonomous solution, I led the development of a Flask web-based application that seamlessly communicates with Python code. This application empowers both data providers and clients to independently validate data set health, resulting in an impressive 70-80% reduction in manual effort and development costs. By harnessing Alqami's algorithm, it dynamically scores supervised/unsupervised data, rapidly producing results without reliance on metadata. Encompassing Data Ingestion, Wrangling/Cleaning, Exploratory Data Analysis, and automated report generation, the Python-powered scoring effortlessly generates accessible scores through the web.
+<h4 align="left">Achievements:</h4>
+
+• Implemented a custom score-based algorithm in Python which increased sales leads by 32% leading to an increased market share.<br>
+• Pioneered autonomous data set health validation via a high-impact Flask web application, delivering rapid, metadata-independent results that have revolutionized data management for both providers and clients.<br>
+• Performed data extraction from Amazon AWS S3 Bucket, subsequently storing the transformed data into user-defined directories for seamless future analysis.<br>
+• Executed generic ETL pipeline tasks, Data Wrangling/Cleaning, Exploratory Data Analysis, and automated report generation, leading to 70-80% reduction in data scientist time and cost for subsequent machine learning operations.<br>
+• Crafted Contextual Analysis, Statistical Analysis, Correlational Analysis, Descriptive Analysis, Predictive Analysis, and visualization components aligning with company scoring criteria, increasing clients' chances of purchasing data sets by 80% compared to viewing samples.<br>
+• Achieved a remarkable 100% acceleration in reporting speed by orchestrating iterative development cycles, refining and optimizing the solution to seamlessly adapt to diverse datasets and exceptions, resulting in zero crashes.<br>
+• Managed exceptions and crashes through thorough log exploration and optimized solutions development.<br>
+• Implemented post-cleansing and transformation operations for data quality, attracting clients with insights based on company’s scoring criteria, boosting data purchase potential by over 50%.<br>
+• Seamlessly integrated Machine Learning e.g., K-means clustering and Principal Component Analysis (PCA) for unsupervised data sets, as required.<br>
+• Developed innovative solutions within the Alqami ecosystem, navigating intricate data landscapes and unveiling latent patterns using Supervised and Unsupervised learning methods.<br>
+• Enhanced data comprehension and decision-making through transparent Tableau-enabled results visualization, driving tangible improvements in overall data understanding and insights utilization.<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/rana-touqeer-portfolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rana-touqeer-portfolio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rprof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rprof" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
