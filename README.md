@@ -15,7 +15,7 @@
 
 - 📫 To reach me, please email me at **touqeerattiq@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rana-touqeer-portfolio](https://www.linkedin.com/in/rana-touqeer-portfolio)
+- 📄 Know about my experiences https://www.linkedin.com/in/rprof
 
 <h3 align="left">Background:</h3>
 I am a goal-oriented and driven guy with a "Can Do" mentality who is constantly eager to expand my knowledge of new languages and technologies as needed. Following my Master's degree in data science, I completed a number of LinkedIn and AWS certifications, including Machine Learning with SciKit Learn, Association Rules, Python Foundation (Pandas, NumPy), Data Science Tips and Tricks, AWS Academy Data Analytics and Essential Trainings for Data Cleaning, SQL, Tableau and Power-BI etc. I've worked on several academic forecasting projects with Tableau.
