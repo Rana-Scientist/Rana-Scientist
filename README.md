@@ -13,9 +13,9 @@
 
 - 💬 Ask me about data science related **ETL pipeline, Data wrangling, Exploratory Data Analysis (EDA), statistical analysis, contextual analysis, correlational analysis, predictive analysis, descriptive analysis and machine learning problems.**
 
-- 📫 To reach me, please email me at **touqeerattiq@gmail.com**
+- 📫 To reach me, please email me at **touqeerattiq@gmail.com** | **R.T.Attique@edu.salford.ac.uk**
 
-- 📄 Know about my experiences https://www.linkedin.com/in/rprof | https://rana-portfolio.com
+- 📄 Know about my experiences **https://www.linkedin.com/in/rprof** | **https://rana-portfolio.com**
 
 
 
