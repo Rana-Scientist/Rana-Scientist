@@ -11,23 +11,19 @@
 
 - 🤝 I’m looking for help with **front-end applications, for general data wrangling and data health scoring visualization.**
 
-- 💬 Ask me about data science related **ETL pipeline, Data wrangling,Exploratory Data Analysis (EDA), machine learning problems.**
+- 💬 Ask me about data science related **ETL pipeline, Data wrangling, Exploratory Data Analysis (EDA), and machine learning problems.**
 
 - 📫 To reach me, please email me at **touqeerattiq@gmail.com**
 
 - 📄 Know about my experiences https://www.linkedin.com/in/rprof
 
 <h3 align="left">Background:</h3>
-I am a goal-oriented and driven guy with a "Can Do" mentality who is constantly eager to expand my knowledge of new languages and technologies as needed. Following my Master's degree in data science, I completed a number of LinkedIn and AWS certifications, including Machine Learning with SciKit Learn, Association Rules, Python Foundation (Pandas, NumPy), Data Science Tips and Tricks, AWS Academy Data Analytics and Essential Trainings for Data Cleaning, SQL, Tableau and Power-BI etc. I've worked on several academic forecasting projects with Tableau.
+•I am a dedicated and driven data scientist with a goal-oriented mindset and a "Can Do" attitude. I thrive on expanding my knowledge of new languages and cutting-edge technologies to enhance my strong programming background. With a Master's degree in data science as my foundation, I have achieved a series of notable certifications, including Machine Learning with SciKit Learn, Python Foundation, Data Science Tips and Tricks, AWS Academy Data Analytics, and Essential Trainings for Data Cleaning, SQL, Tableau, and Power-BI. These certifications have enriched my skills in data mining and analysis, with a focus on essential Python libraries such as NumPy, Pandas, SciKit-Learn, Seaborn, Matplotlib, Boto3, and more. I bring over a year of hands-on experience, adeptly participating in ETL pipeline, data wrangling, exploratory data analysis (EDA), implementing machine learning algorithms, and generating comprehensive reports. My versatile programming toolkit spans Python and SQL, and I am well-versed in tools such as Jupyter Notebook, Data Bricks, and VS code.
 
+•Throughout my academic journey, I've adeptly navigated both supervised and unsupervised datasets, showcasing prowess in classification and regression techniques including Linear Regression, Simple Linear, Multi-Linear, and Polynomial Regression. My skillset encompasses a spectrum of machine learning algorithms such as Decision Trees, Random Forests, Support Vector Machines (SVM), and K-Nearest Neighbors (KNN), while my expertise in A/B Testing tailored insights for specific project contexts. Expanding my horizons, I've ventured into Sentiment Analysis using UCI and World Bank Datasets. For unsupervised analysis, I've honed proficiency in K-means clustering, Principal Component Analysis, and Market Basket Analysis, all bolstered by hands-on data visualization through Tableau in academic forecasting ventures.
 
-•As a data scientist, I participate in several stages, including data cleansing, machine learning algorithms and report generation. I used python or SQL as a programming language depending on the task with the following python tools e.g. Jupyter notebook, Data Bricks and VS code as a framework. Hands-on experience in managing supervised and unsupervised datasets. 
+•Earlier to this as a Unity 3D game developer, I spearheaded the creation of cutting-edge prototypes and custom Unity 3D plugins, while concurrently managing operations within the Google Play Store ecosystem. My technical contributions encompassed the development of highly optimized Unity 3D packages, seamlessly integrating UI components, core gameplay mechanics, sophisticated AI frameworks, in-app purchasing SDKs, and the seamless incorporation of platforms such as Admob and Unity to bolster analytics and social interactions. I harnessed Google Play Store and Unity Dashboard analytics to formulate data-driven strategies, dissecting metrics like active user engagement and retention rates.
 
-• For Supervised datasets worked on both classification problems and regression problems e.g., Linear Regression, Simple Linear, Multi-Linear and Polynomial Regression etc. I've worked on several academic projects for Sentimental analysis, Linear Regression and Classification problems using UCI and World Bank Datasets. 
-
-• For Unsupervised datasets worked on common clustering models e.g K-means clustering etc.
-
-• Very handy with top python libraries e.g, NumPy, Pandas, SciKit-Learn, Matplotlib, Boto3, dateutil, Dataprep.clean, FPDF, Flasks, celery etc.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
