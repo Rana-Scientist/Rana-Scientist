@@ -15,7 +15,7 @@
 
 - 📫 To reach me, please email me at **touqeerattiq@gmail.com** | **R.T.Attique@edu.salford.ac.uk**
 
-- 📄 Know about my experiences **https://www.linkedin.com/in/rprof** | **https://rana-portfolio.com**
+- 📄 Know about my experiences **https://www.linkedin.com/in/rprof** | **https://ranadatascientist.com/**
 
 
 
